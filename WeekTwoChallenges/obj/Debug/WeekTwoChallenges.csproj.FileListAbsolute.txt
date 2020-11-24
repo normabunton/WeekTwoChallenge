@@ -1,0 +1,2 @@
+C:\ElevenFiftyProjects\Challenges\WeekTwoChallenges\WeekTwoChallenges\WeekTwoChallenges\obj\Debug\WeekTwoChallenges.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Challenges\WeekTwoChallenges\WeekTwoChallenges\WeekTwoChallenges\obj\Debug\WeekTwoChallenges.csproj.CoreCompileInputs.cache
